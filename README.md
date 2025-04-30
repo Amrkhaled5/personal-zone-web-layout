@@ -31,9 +31,6 @@ The layout includes several key sections:
 - **Font Awesome**
 
 
-## 📸 Screenshots
-
-> Include screenshots of each section (landing, articles, team, etc.) if possible.
 
 ## 🚀 How to Run the Project
 
